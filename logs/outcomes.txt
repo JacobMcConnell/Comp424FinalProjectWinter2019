@@ -1,0 +1,5 @@
+1,Human,260706620,1,260706620,11,game00001.log,
+2,RandomPlayer,----------,1,----------,10,game00002.log,
+3,----------,RandomPlayer,0,----------,14,game00003.log,
+4,RandomPlayer,----------,1,----------,10,game00004.log,
+5,RandomPlayer,----------,1,----------,10,game00005.log,
